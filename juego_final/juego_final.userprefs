@@ -1,0 +1,42 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GlobalCounterScript.cs">
+    <Files>
+      <File FileName="Assets/lips.cs" Line="80" Column="62" />
+      <File FileName="Assets/GlobalCounterScript.cs" Line="26" Column="1" />
+      <File FileName="Assets/Assets/MaskCamera.cs" Line="134" Column="99" />
+      <File FileName="Assets/levelcontrol2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Nail.cs" Line="8" Column="29" />
+      <File FileName="Assets/TitleControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/levelcontrol.cs" Line="16" Column="1" />
+      <File FileName="Assets/perfume.cs" Line="30" Column="4" />
+      <File FileName="Assets/Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets/scriptVoitureTimer.cs" Line="14" Column="2" />
+      <File FileName="Assets/Eyeliner2.cs" Line="38" Column="1" />
+      <File FileName="Assets/EyebrowControl1.cs" Line="37" Column="1" />
+      <File FileName="Assets/Eyeliner1.cs" Line="51" Column="22" />
+      <File FileName="Assets/EyebrowControl.cs" Line="34" Column="13" />
+      <File FileName="Assets/scenes/GlobalNailCounter.cs" Line="17" Column="98" />
+      <File FileName="Assets/wetnessScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/clickCounterHairDryer.cs" Line="38" Column="14" />
+      <File FileName="Assets/timer.cs" Line="23" Column="2" />
+      <File FileName="Assets/scriptAnimationCar.cs" Line="1" Column="14" />
+      <File FileName="Assets/scriptAnimationHouse.cs" Line="27" Column="4" />
+      <File FileName="Assets/lips_again.cs" Line="1" Column="1" />
+      <File FileName="Assets/LipsWall1.cs" Line="1" Column="1" />
+      <File FileName="Assets/scriptWetnessMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Assets 1/car.cs" Line="7" Column="1" />
+      <File FileName="Assets/scriptAnimationHand.cs" Line="24" Column="5" />
+      <File FileName="Assets/scriptAnimationEndingSad.cs" Line="9" Column="17" />
+      <File FileName="Assets/scriptAnimationEndingHappy.cs" Line="16" Column="25" />
+      <File FileName="Assets/perfume1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/CarMontiel/juego_final/Assets/TitleControl.cs" line="21" column="1" />
+      <Breakpoint file="/Users/CarMontiel/juego_final/Assets/TitleControl.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

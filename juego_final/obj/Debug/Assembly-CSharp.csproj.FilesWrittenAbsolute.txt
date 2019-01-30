@@ -1,0 +1,17 @@
+/Users/CarMontiel/juego_final/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/CarMontiel/juego_final/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/CarMontiel/juego_final/obj/Debug/Assembly-CSharp.dll
+/Users/CarMontiel/juego_final/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/CarMontiel/juego_final/Temp/bin/Debug/UnityEngine.dll
+/Users/CarMontiel/juego_final/Temp/bin/Debug/UnityEditor.dll
+/Users/CarMontiel/juego_final/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/CarMontiel/juego_final/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/CarMontiel/juego_final/Temp/bin/Debug/Mono.Cecil.dll
+/Users/CarMontiel/juego_final/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/CarMontiel/juego_final/Temp/bin/Debug/Unity.DataContract.dll
+/Users/CarMontiel/juego_final/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/CarMontiel/juego_final/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/CarMontiel/juego_final/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/CarMontiel/juego_final/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/CarMontiel/juego_final/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/CarMontiel/juego_final/Temp/bin/Debug/Mono.Cecil.Mdb.dll
